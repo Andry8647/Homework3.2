@@ -27,6 +27,7 @@ public class Main {
             }else {
                 System.out.println("Остались только стоячие места(");
             }
+
         }
     }
 }
